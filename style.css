@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	height: 100vh;
+	font-family: sans-serif;
+	overflow: hidden;
+	color: aliceblue;
+	background-color: rgb(136, 201, 238);
+}
+p{color: rgb(229, 241, 241);}
